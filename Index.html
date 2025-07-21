@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Study Planner App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>📚 Study Planner</h1>
+    <input type="text" id="taskInput" placeholder="Enter topic or subject">
+    <input type="date" id="dueDate">
+    <button onclick="addTask()">Add Task</button>
+
+    <ul id="taskList"></ul>
+
+    <div class="progress">
+      <label>Progress:</label>
+      <progress id="progressBar" value="0" max="100"></progress>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
