@@ -15,5 +15,7 @@ An interactive Study Planner to help students stay organized and track study pro
 - CSS3
 - JavaScript
 
+Output:
+![WhatsApp Image 2025-09-05 at 22 40 30_938016aa](https://github.com/user-attachments/assets/c6a3eac4-f5a9-4255-bdaf-ac39b1584712)
 
 
